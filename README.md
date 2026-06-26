@@ -1,2 +1,2 @@
 # 2TrimestreAvaliacao
-Projeto Agrinho
+Atividade Avaliativa
